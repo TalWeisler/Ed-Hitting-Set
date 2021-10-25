@@ -9,7 +9,7 @@ Question: Does C have a hitting set of size k or less?
 
 Hitting Set is NP-complete
 
-To solve this problem we use 2 kernelizations: 
+To solve the problem in polynomial time we used 2 kernelizations:
 1. The sunflower lemma
 2. The crown decomposition
 
